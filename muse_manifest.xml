@@ -1,0 +1,132 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="immune system.com" resolutions="1x,2x" timestamp="1555580340275">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3958127234" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="poster.png" crc="3895086652" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster_2x.png" crc="186704287" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-4.png" crc="283527963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="未命名-4_2x.png" crc="4255213983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.png" crc="4022475670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5_2x.png" crc="117723954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gamemode.png" crc="358362497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gamemode_2x.png" crc="296043168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.png" crc="3863380049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6_2x.png" crc="3823235739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cell.png" crc="247873684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cell_2x.png" crc="388838181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.png" crc="423813366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7_2x.png" crc="3853574069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="animation.png" crc="130272481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="animation_2x.png" crc="233449819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="virus1-1.gif" crc="4167401449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="virus1-1_2x.gif" crc="4167401449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="virus1.gif" crc="3957136470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="virus1_2x.gif" crc="3957136470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="becteria.gif" crc="523798010" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="becteria_2x.gif" crc="523798010" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cell.gif" crc="4067154519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cell_2x.gif" crc="4067154519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ship.gif" crc="3851715811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ship_2x.gif" crc="3851715811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="t-cell.gif" crc="3944426701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="t-cell_2x.gif" crc="3944426701" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whitecell.gif" crc="4027071590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whitecell_2x.gif" crc="4027071590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back.png" crc="505501697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back_2x.png" crc="338555436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="video.png" crc="526605811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="video_2x.png" crc="4156785379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shoot.png" crc="3787875406" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shoot_2x.png" crc="93103956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="player.png" crc="4222666516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="player_2x.png" crc="3967879426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="138122037" seo="true" mt="1555578935745" redirect="true"/>
+</manifest>
